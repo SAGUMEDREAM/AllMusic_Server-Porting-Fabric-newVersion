@@ -1,4 +1,4 @@
-# AllMusic_Server-Porting-Fabric1.20.4
+# AllMusic_Server-Porting-Fabric-newVersion(now is 1.20.4)
 原仓库: https://github.com/Coloryr/AllMusic_Server
 
 # AllMusic插件
